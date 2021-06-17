@@ -1,8 +1,19 @@
+# Этот проект Todo List сделан на React + TypeScript
 
-In the project directory, you can run:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
 
-### `npm start`
+---
 
-### `Этот проект Todo List сделан на React + TypeScript`
+Deploy
+: [Хостинг проекта](https://typescript-react-todo.vercel.app/) :clapper:
 
-Технологии (useState, useEffect, useRef, useHistory, React-router-dom, TypeScript, )
+![screen1](screen2.png)
+![screen1](screen1.png)
+
+> **_Технологии_** :
+> useState
+> useEffect
+> useRef
+> useHistory
+> React-router-dom
+> TypeScript
